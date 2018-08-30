@@ -1,0 +1,2 @@
+# msd
+mysql study diary
